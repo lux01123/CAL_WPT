@@ -100,6 +100,8 @@ while (n > 0):
 
 		print("Tro khang tai toi da:")
 		print("%.3f" % round(rlm, 3))
+		
+		print("end")
 
 		n = n - 1
 		print()
